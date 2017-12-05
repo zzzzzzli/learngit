@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.22)  5 DEC 2017 18:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.22)  5 DEC 2017 18:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1073,13 +1073,13 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.53937> not available
 
 ] (./a.aux) ) 
 Here is how much of TeX's memory you used:
- 12845 strings out of 492995
- 247139 string characters out of 6136401
- 274771 words of memory out of 5000000
- 16176 multiletter control sequences out of 15000+600000
+ 12847 strings out of 492995
+ 247164 string characters out of 6136401
+ 273771 words of memory out of 5000000
+ 16178 multiletter control sequences out of 15000+600000
  16735 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,4n,56p,10469b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,4n,56p,10469b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WIND
 OWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc>
 <c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/sim
@@ -1099,7 +1099,7 @@ fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><e:/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><e:/texlive/20
 17/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><e:/texlive/2017/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on a.pdf (1 page, 237186 bytes).
+Output written on a.pdf (1 page, 237444 bytes).
 PDF statistics:
  236 PDF objects out of 1000 (max. 8388607)
  142 compressed objects within 2 object streams

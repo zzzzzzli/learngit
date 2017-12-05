@@ -19,7 +19,7 @@
   \begin{itemize}
     \item \verb|git log| 或者 \verb|git log --pretty=oneline| 查看历史版本的 ID 号，以及你的备注（就是commit -m ""）后面写的东西
     \item \verb|git reset HEAD^^| 退回到上两个版本，后面几个尖角号就是退回到前面第几个版本
-    \item \verb|git reflog| 现在退回到旧版本了，但如果又想回到刚才的新版本，而log文件里面刚才最新的版本已经消失了，此时，要么在命令窗口里往上翻，找到那个版本的 ID, 如果你把窗口关了，重新打开之后，也能在reflog文件里查看未来的版本记录
+    \item \verb|git reflog| 现在退回到旧版本了，但如果又想重返未来，而log文件里面刚才最新的版本已经消失了，此时，要么在命令窗口里往上翻，找到那个版本的 ID, 如果你把窗口关了，重新打开之后，也能在reflog文件里查看未来的版本记录
     \item \verb|git reset --hard ID| 退回到 ID 指定的版本，ID 是你要退回的版本号，在log或者reflog里面
   \end{itemize}
 \end{enumerate}
