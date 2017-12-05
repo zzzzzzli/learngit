@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.22)  5 DEC 2017 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.22)  5 DEC 2017 18:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1012,13 +1012,13 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.53937> not available
 
 ] (./a.aux) ) 
 Here is how much of TeX's memory you used:
- 12107 strings out of 492995
- 236715 string characters out of 6136401
- 269771 words of memory out of 5000000
- 15493 multiletter control sequences out of 15000+600000
- 11335 words of font info for 43 fonts, out of 8000000 for 9000
+ 12261 strings out of 492995
+ 238745 string characters out of 6136401
+ 272771 words of memory out of 5000000
+ 15617 multiletter control sequences out of 15000+600000
+ 15385 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,4n,56p,10409b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,4n,56p,10409b,284s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WIND
 OWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc>
 <c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/sim
@@ -1027,14 +1027,19 @@ onts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/W
 INDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.t
 tc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/
 simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOW
-S/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><e:/texlive/2017/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><e:/texlive/2017/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><e:/texlive/2017/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmtt10.pfb>
-Output written on a.pdf (1 page, 134447 bytes).
+S/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c
+:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsu
+n.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fon
+ts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WIN
+DOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc
+><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/si
+msun.ttc><e:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+e:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><e:/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on a.pdf (1 page, 209985 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+ 211 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 

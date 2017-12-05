@@ -12,7 +12,14 @@
   \item 修改你的文件
   \begin{itemize}
     \item \verb|git status| 告诉你哪个文件被修改过
-    \item \verb|git diff|
+    \item \verb|git diff| 告诉你文件哪里被修改成什么样子了
+    \item \verb|git add, git commit -m "xxx"| 把修改过的文件扔到仓库里
+  \end{itemize}
+  \item 版本退回
+  \begin{itemize}
+    \item \verb|git log| 或者 \verb|git log --pretty=oneline| 查看历史版本的 ID 号，以及你的备注（就是commit -m ""）后面写的东西
+    \item \verb|git reflog| 即使你把电脑关了，重新打开之后，也能查看历史版本记录
+    \item \verb|git reset --hard ID| 退回到 ID 指定的版本，ID 是你要退回的版本号，在log或者reflog里面
   \end{itemize}
 \end{enumerate}
 \end{document}
