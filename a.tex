@@ -33,5 +33,10 @@
     \item \verb|git checkout -- file| 撤销工作区的修改，注意，两个短线左右都有空格，或者暂存区还未提交的文件被修改了，也可以撤销修改
     \item \verb|git reset HEAD file| 如果修改过的文件被放到暂存区了，那么用这个命令再拿回来，然后再用上一条命令撤销修改
   \end{itemize}
+  \item 删除文件与一键还原
+  \begin{itemize}
+    \item \verb|git rm file| 从版本库里面删除文件。如果某个文件被删除了（用的是 rm 或者是用资源管理器删除），此时工作去和暂存区不一致，\verb|git status| 会告诉那个文件被删了，如果真的要删除它，就用这个命令，然后再提交
+    \item \verb|git checkout -- file| 如果发现是删错了，则可以还原。这个命令真的是不管文件被修改了还是被删除了，都可以一键还原
+  \end{itemize}
 \end{enumerate}
 \end{document}
