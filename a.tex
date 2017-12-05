@@ -22,5 +22,16 @@
     \item \verb|git reflog| 现在退回到旧版本了，但如果又想重返未来，而log文件里面刚才最新的版本已经消失了，此时，要么在命令窗口里往上翻，找到那个版本的 ID, 如果你把窗口关了，重新打开之后，也能在reflog文件里查看未来的版本记录
     \item \verb|git reset --hard ID| 退回到 ID 指定的版本，ID 是你要退回的版本号，在log或者reflog里面
   \end{itemize}
+  \item 专有名词
+  \begin{description}
+    \item[工作区] 就是文件存放的目录，手动修改文件的地方
+    \item[版本库] 工作区同目录下的 .git 文件夹，里面存放了分支、指向分支的指针 HEAD, 以及暂存区
+    \item[暂存区] 每次修改文件之后，先把修改过的文件加入到暂存区之后，再一起提交到分支
+  \end{description}
+  \item 撤销修改
+  \begin{itemize}
+    \item \verb|git checkout -- file| 撤销工作区的修改，注意，两个短线左右都有空格，或者暂存区还未提交的文件被修改了，也可以撤销修改
+    \item \verb|git reset HEAD file| 如果修改过的文件被放到暂存区了，那么用这个命令再拿回来，然后再用上一条命令撤销修改
+  \end{itemize}
 \end{enumerate}
 \end{document}
